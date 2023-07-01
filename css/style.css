@@ -1,0 +1,132 @@
+.Topcontainer{
+    padding-top: 100px;
+    background-color: lightskyblue;
+}
+body{
+    background-color:linen;
+    text-align: center;
+    margin: 0;
+    font-family: 'Asul', sans-serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Clicker Script', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.head{
+    font-weight: 400;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+
+.topc{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.profile{
+    margin-top: 10px;
+}
+.prof{
+    margin-top: 50px;
+    border-radius: 100%;
+}
+.bottomc{
+    position: absolute;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 50px auto 0px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.footer-link{
+    margin: 20px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.book{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 100%;
+}
+a{
+    color: #11999E;
+}
+hr{
+    margin: 75px auto 75px auto;
+    color: #1b18b9;
+    width: 4%;
+    border-top: dotted 5px;
+}
+.BUTTON_HPI {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+ }
+ 
+ .BUTTON_HPI:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .copy{
+    padding-top: 20px;
+    text-align: center;
+    color: #EAF6F6;
+ }

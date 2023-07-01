@@ -1,0 +1,24 @@
+.t1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left: 208px;
+    top: 208px;
+}
+.t2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 108px;
+    top: 108px;
+    
+}
+.t3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+    
+}
